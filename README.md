@@ -1,1 +1,5 @@
-# -3gx
+This plugin written by Yuu.
+
+Spaecial Thanks
+Redo
+Sky
